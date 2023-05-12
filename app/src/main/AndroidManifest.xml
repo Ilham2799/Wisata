@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.MUHAMAD_ILHAM_201011401698">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Wisata">
+        <activity android:name="com.example.MUHAMAD_ILHAM_201011401698.About"></activity>
+        <activity android:name="com.example.MUHAMAD_ILHAM_201011401698.Kampoong" />
+        <activity android:name="com.example.MUHAMAD_ILHAM_201011401698.Pondok" />
+        <activity android:name="com.example.MUHAMAD_ILHAM_201011401698.Vihara" />
+        <activity android:name="com.example.MUHAMAD_ILHAM_201011401698.Gereja" />
+        <activity android:name="com.example.MUHAMAD_ILHAM_201011401698.Masjid" />
+        <activity android:name="com.example.MUHAMAD_ILHAM_201011401698.WisataReligi" />
+        <activity android:name="com.example.MUHAMAD_ILHAM_201011401698.WisataKuliner" />
+        <activity android:name="com.example.MUHAMAD_ILHAM_201011401698.Pustaka" />
+        <activity android:name="com.example.MUHAMAD_ILHAM_201011401698.KebunBinatang" />
+        <activity android:name="com.example.MUHAMAD_ILHAM_201011401698.Museum" />
+        <activity android:name="com.example.MUHAMAD_ILHAM_201011401698.WisataEdukasi" />
+        <activity android:name="com.example.MUHAMAD_ILHAM_201011401698.RiauFantasi" />
+        <activity android:name="com.example.MUHAMAD_ILHAM_201011401698.Okura" />
+        <activity android:name="com.example.MUHAMAD_ILHAM_201011401698.HutanRaya" />
+        <activity android:name="com.example.MUHAMAD_ILHAM_201011401698.AlamMayang" />
+        <activity android:name="com.example.MUHAMAD_ILHAM_201011401698.AirTerjun" />
+        <activity android:name="com.example.MUHAMAD_ILHAM_201011401698.WisataAlam" />
+        <activity android:name="com.example.MUHAMAD_ILHAM_201011401698.Danau" />
+        <activity android:name="com.example.MUHAMAD_ILHAM_201011401698.Alam" />
+        <activity android:name="com.example.MUHAMAD_ILHAM_201011401698.MenuUtama" />
+        <activity android:name="com.example.MUHAMAD_ILHAM_201011401698.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
